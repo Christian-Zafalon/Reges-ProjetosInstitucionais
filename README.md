@@ -3,6 +3,7 @@
         <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFcgLD1PByBGA/company-logo_200_200/0/1541437940971?e=2147483647&v=beta&t=dzcFUoW_OZHI6ivnLhMQ6gBalfm7DfgrRxSrdkBi6Us"
             alt="LogoReges" width="150px" height="150px" style="border-radius: 150px; margin: 30px;">
         <h1 style="display: flex; text-align: center; align-self: center;">Faculdade Reges de Ribeirao preto</h1>
+        <h4>(Projetos iniciantes)</h4>
     </div>
     <h4>👨‍🎓 Neste repositorio se encontra a maior parte de projetos realizados na instituição Reges de Ribeirão Preto.
     </h4>
@@ -20,3 +21,5 @@
       </div>
 
 </body>
+<h5>Eii já que passou por aqui, da uma passadinha no meu LinkedIn também 😊.</h5>
+  <a href="https://www.linkedin.com/in/christian-z-08569a164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
