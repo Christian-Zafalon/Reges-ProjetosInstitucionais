@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Escola Matheus Albert Christiãum</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProjetoFinalMVCCore.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="Professores/Banana">
+                    <img src="data:image/png;base64,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" width="30" height="30" class="d-inline-block align-top" alt="">
+                        Escola Matheus Albert Christiãum
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Professores" asp-action="Index">Professores</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white-50" asp-area="" asp-controller="Cursos" asp-action="Index">Cursos</a>
+                        </li>
+                        @*<li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>*@
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Projeto realizado por Christian Zafalon e Matheus Baldoino
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

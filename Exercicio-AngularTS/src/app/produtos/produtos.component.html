@@ -1,0 +1,29 @@
+
+<table class="container table mt-5" *ngIf="!this.exibirTabela">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">type</th>
+        <th scope="col">description</th>
+        <th scope="col">height</th>
+        <th scope="col">width</th>
+        <th scope="col">price</th>
+        <th scope="col">rating</th>
+        <th scope="col">Comprar</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of produtos">
+        <th scope="row"></th>
+        <td>{{item.type}}</td>
+        <td>{{item.description}}</td>
+        <td>{{item.height}}</td>
+        <td>{{item.width}}</td>
+        <td>{{item.price}}</td>
+        <td>{{item.rating}}</td>
+        <td *ngIf="item.price > 100">Não</td>
+        <td *ngIf="item.price <= 100">Sim</td>
+      </tr>
+    </tbody>
+  </table>
+  <button class="mb-3" type="button" class="btn btn-secondary" (click)="onMostrarTabela()">Mostrar/Ocultar Tabela</button>

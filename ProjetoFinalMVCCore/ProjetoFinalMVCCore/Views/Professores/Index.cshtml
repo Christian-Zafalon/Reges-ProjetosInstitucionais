@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ProjetoFinalMVCCore.Models.Professor>
+
+@{
+    ViewData["Title"] = "Professor";
+}
+
+<h1>Professor</h1>
+
+<p>
+    <a asp-action="Create">Adicionar Professor</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.formacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cpf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.formacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cpf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Alterar cadastro</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhes do professor</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Remover Professor</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,7 @@
+﻿@{
+    ViewData["Title"] = "Aqui contem acesso administrador";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Aqui apenas quem possui o acesso administrador consegue entrar. Codigo utilizado</p>
+<p>[Authorize(Roles = Roles.Admin)] na HomeController</p>

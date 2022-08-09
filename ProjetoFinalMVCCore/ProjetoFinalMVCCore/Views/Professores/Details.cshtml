@@ -1,0 +1,42 @@
+﻿@model ProjetoFinalMVCCore.Models.Professor
+
+@{
+    ViewData["Title"] = "Detalhes de Informação do professor";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Professor</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.formacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.formacao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cpf)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cpf)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.email)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Ver detalhes</a> |
+    <a asp-action="Index">Voltar</a>
+</div>

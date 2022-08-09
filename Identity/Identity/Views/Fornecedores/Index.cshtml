@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Identity.Models.Fornecedor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<br />
+<h1>Lista de Fornecedores/Produtos</h1>
+
+<p>
+    <a  class="btn btn-outline-success text-red btn-sm"asp-action="Create">Adicionar um novo Fornecedor/Produto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cnpj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProdutoFornecedor.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProdutoFornecedor.Preco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cnpj)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.ProdutoFornecedor.Nome)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.ProdutoFornecedor.Preco)
+            </th>
+            <td>
+                <a class="btn btn-outline-warning text-red btn-sm" asp-action="Edit" asp-route-id="@item.IdFornecedor">Editar</a> |
+                <a class="btn btn-outline-info text-blue btn-sm" asp-action="Details" asp-route-id="@item.IdFornecedor">Ver Detalhes</a> |
+                <a class="btn btn-outline-danger text-red btn-sm" asp-action="Delete" asp-route-id="@item.IdFornecedor">Apagar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

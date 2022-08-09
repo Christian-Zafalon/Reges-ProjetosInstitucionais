@@ -1,0 +1,53 @@
+﻿@model ProjetoFinalMVCCore.Models.Curso
+
+@{
+    ViewData["Title"] = "Adicionar um Curso";
+}
+
+<h1>Adicionar um Curso</h1>
+<h4>Curso</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nome" class="control-label">Nome</label>
+                <input asp-for="nome" type="text" class="form-control" placeholder="Nome do curso" />
+                <span asp-validation-for="nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="materia" class="control-label">Materia</label>
+                <input asp-for="materia" type="text" class="form-control" placeholder="Nome da matéria" />
+                <span asp-validation-for="materia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cargaHoraria" class="control-label">Carga Horaria</label>
+                <input asp-for="cargaHoraria" type="datetime" class="form-control" placeholder="Carga horaria do curso"/>
+                <span asp-validation-for="cargaHoraria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nivel" class="control-label">Nivel</label>
+                <input asp-for="nivel" type="text" class="form-control" placeholder="Nivel de especialidade"/>
+                <span asp-validation-for="nivel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="valor" class="control-label">Valor</label>
+                <input asp-for="valor" type="number" class="form-control" placeholder="Valor do curso"/>
+                <span asp-validation-for="valor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Adicionar" class="btn btn-primary" />
+                <input class="btn btn-outline-danger" type="reset" value="Limpar campos">
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para a lista de cursos</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

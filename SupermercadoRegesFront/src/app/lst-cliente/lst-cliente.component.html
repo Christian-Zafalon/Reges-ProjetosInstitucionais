@@ -1,0 +1,43 @@
+<br/>
+<br/>
+<table class="table table-sm table-dark">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Nome</th>
+        <th scope="col">Telefone</th>
+        <th scope="col">E-mail</th>
+        <th scope="col">Documento</th>
+        <th scope="col">Nascimento</th>
+        <th scope="col">Rua</th>
+        <th scope="col">Numero</th>
+        <th scope="col">Bairro</th>
+        <th scope="col">CEP</th>
+        <th scope="col">Cidade</th>
+        <th scope="col">Complemento</th>
+        <th scope="col">Lougradouro</th>
+        <th scope="col">Uf</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let Cliente of Cliente" >
+        <th scope="row">{{Cliente.id}}</th>
+        <th scope="row">{{Cliente.nome}}</th>
+        <th scope="row">{{Cliente.telefone}}</th>
+        <th scope="row">{{Cliente.email}}</th>
+        <th scope="row">{{Cliente.documento}}</th>
+        <th scope="row">{{Cliente.dataNascimento}}</th>
+        <th scope="row">{{Cliente.rua}}</th>
+        <th scope="row">{{Cliente.numero}}</th>
+        <th scope="row">{{Cliente.bairro}}</th>
+        <th scope="row">{{Cliente.cep}}</th>
+        <th scope="row">{{Cliente.cidade}}</th>
+        <th scope="row">{{Cliente.complemento}}</th>
+        <th scope="row">{{Cliente.logradouro}}</th>
+        <th scope="row">{{Cliente.uf}}</th>
+      </tr>
+
+    </tbody>
+  </table>
+<button class="btn btn-success" (click)="cadastrarCliente()">Novo Cliente</button>

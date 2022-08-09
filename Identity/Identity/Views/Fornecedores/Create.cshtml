@@ -1,0 +1,50 @@
+﻿@model Identity.Models.Fornecedor
+
+@{
+    ViewData["Title"] = "Create";
+}
+<br/>
+<h1>Adicionar</h1>
+
+<h4>Fornecedor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input placeholder="Nome Fantasia" asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cnpj" class="control-label"></label>
+                <input placeholder="XX.XXX.XXX/XXXX-XX" asp-for="Cnpj" class="form-control" />
+                <span asp-validation-for="Cnpj" class="text-danger"></span>
+            </div>
+            <h4>Produto</h4>
+            <hr />
+            <div class="form-group">
+                <label asp-for="ProdutoFornecedor.Nome" class="control-label"></label>
+                <input placeholder="Banana/Maçã/Chocolate" asp-for="ProdutoFornecedor.Nome" class="form-control" />
+                <span asp-validation-for="ProdutoFornecedor.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProdutoFornecedor.Preco" class="control-label"></label>
+                <input placeholder="00,00" asp-for="ProdutoFornecedor.Preco" class="form-control" />
+                <span asp-validation-for="ProdutoFornecedor.Preco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-dark btn-sm" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

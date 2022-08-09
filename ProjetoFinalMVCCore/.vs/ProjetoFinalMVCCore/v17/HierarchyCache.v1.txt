@@ -1,0 +1,278 @@
+﻿++Solução 'ProjetoFinalMVCCore' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:ProjetoFinalMVCCore.sln
+++ProjetoFinalMVCCore
+i:{00000000-0000-0000-0000-000000000000}:ProjetoFinalMVCCore
+++Connected Services 
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>905
+++Dependências
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>904
+++Properties
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\properties\
+++launchSettings.json
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\properties\launchsettings.json
+++wwwroot
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\
+++Controllers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\controllers\
+++CursosController.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\controllers\cursoscontroller.cs
+++ProfessoresController.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\controllers\professorescontroller.cs
+++Data
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\data\
+++Migrations
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\migrations\
+++Models
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\models\
+++Curso.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\models\curso.cs
+++ErrorViewModel.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\models\errorviewmodel.cs
+++Professor.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\models\professor.cs
+++Views
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\
+++Cursos
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\cursos\
+++Create.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\cursos\create.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\create.cshtml
+++Delete.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\cursos\delete.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\delete.cshtml
+++Details.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\cursos\details.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\details.cshtml
+++Edit.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\cursos\edit.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\edit.cshtml
+++Index.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\cursos\index.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\index.cshtml
+++Professores
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\
+++Banana.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\professores\banana.cshtml
+++Shared
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\shared\
+++_Layout.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\_viewstart.cshtml
+++appsettings.json
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\appsettings.json
+++Program.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\program.cs
+++Nenhuma dependência de serviço descoberta
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>906
+++Analisadores
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:analisadores
+++Estruturas
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:estruturas
+++Pacotes
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:pacotes
+++css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\css\
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\js\
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\
+++favicon.ico
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\favicon.ico
+++EFContext.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\data\efcontext.cs
+++20220331233101_Initial.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\migrations\20220331233101_initial.cs
+++20220408130622_Inicial.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\migrations\20220408130622_inicial.cs
+++EFContextModelSnapshot.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\migrations\efcontextmodelsnapshot.cs
+++_Layout.cshtml.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\appsettings.development.json
+++MessagePackAnalyzer
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>927
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>928
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>930
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.3)
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>931
+++Swashbuckle.AspNetCore (6.3.0)
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:>929
+++site.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\css\site.css
+++site.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\js\site.js
+++bootstrap
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\
+++jquery
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery\
+++jquery-validation
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation-unobtrusive\
+++20220331233101_Initial.Designer.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\migrations\20220331233101_initial.designer.cs
+++20220408130622_Inicial.Designer.cs
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\migrations\20220408130622_inicial.designer.cs
+++dist
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery\dist\
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery\license.txt
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{c568750d-2bf0-489d-8fb5-875bfa1c8c91}:c:\users\administrador\documents\projetos .net\projetofinalmvccore\projetofinalmvccore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
